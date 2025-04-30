@@ -99,6 +99,27 @@ h2 {
     width: 150px;
     text-align: center;
     margin-top: 5px;
+    margin-bottom: 100px;
 }
 
 /* Quotes Section */
+.quote {
+    background-color: #E5E7EB;
+    padding: 50px 300px;
+}
+
+.quote p {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quote strong {
+    margin-left: 585px;
+}
+
+/* Sign Up Section */
+
